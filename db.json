@@ -1,5 +1,17 @@
 {
-   "data" :{
-      "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXNzd29yZCI6ImRvbmF0byIsIm5hbWUiOiI5MTIxOCIsImlhdCI6MTUxNjIzOTAyMn0.kEVsr8g27OaRpTa-QAa7ywsrxw3IG6w8ZvbnD0MuAJI"
-      }
+   "data" :
+   {
+      "nroafi":"91218",
+      "nivel": "NIVEL 1",
+      "nombres":"Juan",
+      "apellido":"Perez",
+      "type_dni":"DNI",
+      "dni":33555885,
+      "date_of_birth":"12/09/89",
+      "nacionalidad":"Argentina",
+      "sexo":"M",
+      "cuit":20335558856,
+      "foto":"https://reqres.in/img/faces/10-image.jpg",
+      "estado_civil":"SOLTERO"
+   }
 }
